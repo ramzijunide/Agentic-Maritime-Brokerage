@@ -1,0 +1,571 @@
+route_id,origin,destination,distance_nm,transit_days,transshipments,route_type,base_freight_usd
+R001,Chennai,Rotterdam,8650,24,1,Standard,1850
+R002,Chennai,Rotterdam,9100,27,2,Alternative,1720
+R003,Chennai,Rotterdam,8950,26,1,Alternative,1780
+R004,Chennai,Hamburg,8800,25,1,Standard,1900
+R005,Mumbai,Hamburg,7940,22,1,Standard,1800
+R006,Mumbai,Hamburg,8350,25,2,Alternative,1680
+R007,Mumbai,Rotterdam,7600,21,1,Standard,1750
+R008,Mumbai,Rotterdam,8050,24,2,Alternative,1640
+R009,Singapore,Rotterdam,8400,23,1,Standard,1600
+R010,Singapore,Hamburg,8600,24,1,Standard,1650
+R011,Algeciras,Antwerp,1119,6,2,Alternative,880
+R012,Algeciras,Barcelona,531,2,0,Standard,710
+R013,Algeciras,Buenos Aires,5798,15,1,Standard,1450
+R014,Algeciras,Busan,6531,18,2,Alternative,1630
+R015,Algeciras,Cape Town,4944,12,0,Standard,1080
+R016,Algeciras,Chennai,5307,14,1,Standard,1380
+R017,Algeciras,Colombo,5524,16,2,Alternative,1500
+R018,Algeciras,Dubai,3531,9,0,Standard,1030
+R019,Algeciras,Durban,5001,14,1,Standard,1160
+R020,Algeciras,Felixstowe,1112,6,2,Alternative,880
+R021,Algeciras,Genoa,922,3,0,Standard,750
+R022,Algeciras,Hamburg,1377,5,1,Standard,850
+R023,Algeciras,Ho Chi Minh City,6784,19,2,Alternative,1670
+R024,Algeciras,Hong Kong,6614,16,0,Standard,1440
+R025,Algeciras,Houston,4903,13,1,Standard,1270
+R026,Algeciras,Jakarta,7504,20,2,Alternative,1770
+R027,Algeciras,Jebel Ali,3526,9,0,Standard,1030
+R028,Algeciras,Kaohsiung,6862,18,1,Standard,1580
+R029,Algeciras,Kobe,6741,19,2,Alternative,1660
+R030,Algeciras,Laem Chabang,6391,16,0,Standard,1420
+R031,Algeciras,Le Havre,938,4,1,Standard,800
+R032,Algeciras,London Gateway,1067,5,2,Alternative,870
+R033,Algeciras,Long Beach,5788,14,0,Standard,1290
+R034,Algeciras,Los Angeles,5793,15,1,Standard,1380
+R035,Algeciras,Manila,7289,20,2,Alternative,1740
+R036,Algeciras,Miami,4263,11,0,Standard,1120
+R037,Algeciras,Montreal,3418,10,1,Standard,1100
+R038,Algeciras,Mumbai,4689,14,2,Alternative,1380
+R039,Algeciras,New York,3534,9,0,Standard,1040
+R040,Algeciras,Ningbo,6546,17,1,Standard,1540
+R041,Algeciras,Oakland,5768,16,2,Alternative,1470
+R042,Algeciras,Piraeus,1560,5,0,Standard,820
+R043,Algeciras,Port Klang,6840,18,1,Standard,1570
+R044,Algeciras,Port Said,2124,8,2,Alternative,1000
+R045,Algeciras,Qingdao,6187,15,0,Standard,1390
+R046,Algeciras,Rotterdam,1162,5,1,Standard,830
+R047,Algeciras,Salalah,3740,12,2,Alternative,1200
+R048,Algeciras,Santos,4803,12,0,Standard,1240
+R049,Algeciras,Savannah,4110,12,1,Standard,1180
+R050,Algeciras,Seattle,5318,15,2,Alternative,1410
+R051,Algeciras,Shanghai,6473,16,0,Standard,1430
+R052,Algeciras,Shenzhen,6598,17,1,Standard,1540
+R053,Algeciras,Singapore,7040,19,2,Alternative,1700
+R054,Algeciras,Tanjung Pelepas,7021,17,0,Standard,1490
+R055,Algeciras,Tianjin,5916,16,1,Standard,1460
+R056,Algeciras,Tokyo,6805,19,2,Alternative,1670
+R057,Algeciras,Valparaiso,6237,15,0,Standard,1410
+R058,Algeciras,Vancouver,5267,14,1,Standard,1320
+R059,Algeciras,Yokohama,6818,19,2,Alternative,1670
+R060,Antwerp,Algeciras,1119,4,0,Standard,770
+R061,Antwerp,Barcelona,672,4,1,Standard,770
+R062,Antwerp,Buenos Aires,6855,19,2,Alternative,1700
+R063,Antwerp,Busan,5445,14,0,Standard,1300
+R064,Antwerp,Cape Town,5785,15,1,Standard,1230
+R065,Antwerp,Chennai,4775,14,2,Alternative,1390
+R066,Antwerp,Colombo,5078,13,0,Standard,1260
+R067,Antwerp,Dubai,3118,9,1,Standard,1060
+R068,Antwerp,Durban,5676,16,2,Alternative,1300
+R069,Antwerp,Genoa,502,2,0,Standard,700
+R070,Antwerp,Ho Chi Minh City,5995,16,1,Standard,1470
+R071,Antwerp,Hong Kong,5666,16,2,Alternative,1520
+R072,Antwerp,Houston,4900,12,0,Standard,1190
+R073,Antwerp,Jakarta,6897,18,1,Standard,1580
+R074,Antwerp,Jebel Ali,3121,10,2,Alternative,1130
+R075,Antwerp,Kaohsiung,5869,15,0,Standard,1350
+R076,Antwerp,Kobe,5638,15,1,Standard,1420
+R077,Antwerp,Laem Chabang,5637,16,2,Alternative,1510
+R078,Antwerp,Long Beach,5461,14,0,Standard,1250
+R079,Antwerp,Los Angeles,5465,15,1,Standard,1340
+R080,Antwerp,Manila,6340,18,2,Alternative,1610
+R081,Antwerp,Miami,4500,11,0,Standard,1150
+R082,Antwerp,Montreal,3338,10,1,Standard,1090
+R083,Antwerp,Mumbai,4163,13,2,Alternative,1310
+R084,Antwerp,New York,3557,9,0,Standard,1040
+R085,Antwerp,Ningbo,5509,15,1,Standard,1400
+R086,Antwerp,Oakland,5346,15,2,Alternative,1410
+R087,Antwerp,Piraeus,1275,4,0,Standard,790
+R088,Antwerp,Port Klang,6189,16,1,Standard,1490
+R089,Antwerp,Port Said,1925,7,2,Alternative,980
+R090,Antwerp,Qingdao,5130,13,0,Standard,1270
+R091,Antwerp,Salalah,3497,10,1,Standard,1100
+R092,Antwerp,Santos,5876,17,2,Alternative,1560
+R093,Antwerp,Savannah,4229,11,0,Standard,1120
+R094,Antwerp,Seattle,4784,13,1,Standard,1260
+R095,Antwerp,Shanghai,5431,16,2,Alternative,1480
+R096,Antwerp,Shenzhen,5650,14,0,Standard,1330
+R097,Antwerp,Singapore,6381,17,1,Standard,1510
+R098,Antwerp,Tanjung Pelepas,6365,18,2,Alternative,1610
+R099,Antwerp,Tianjin,4857,12,0,Standard,1230
+R100,Antwerp,Tokyo,5692,15,1,Standard,1430
+R101,Antwerp,Valencia,821,5,2,Alternative,840
+R102,Antwerp,Valparaiso,7219,18,0,Standard,1530
+R103,Antwerp,Vancouver,4707,13,1,Standard,1250
+R104,Antwerp,Yokohama,5706,16,2,Alternative,1520
+R105,Barcelona,Algeciras,531,2,0,Standard,710
+R106,Barcelona,Antwerp,672,4,1,Standard,770
+R107,Barcelona,Buenos Aires,6327,18,2,Alternative,1620
+R108,Barcelona,Busan,6009,15,0,Standard,1370
+R109,Barcelona,Cape Town,5161,14,1,Standard,1170
+R110,Barcelona,Chennai,4878,14,2,Alternative,1410
+R111,Barcelona,Colombo,5125,13,0,Standard,1270
+R112,Barcelona,Dubai,3122,9,1,Standard,1060
+R113,Barcelona,Durban,5114,15,2,Alternative,1240
+R114,Barcelona,Felixstowe,714,3,0,Standard,730
+R115,Barcelona,Hamburg,893,4,1,Standard,800
+R116,Barcelona,Ho Chi Minh City,6290,18,2,Alternative,1600
+R117,Barcelona,Hong Kong,6089,15,0,Standard,1380
+R118,Barcelona,Houston,5108,14,1,Standard,1300
+R119,Barcelona,Jakarta,7066,19,2,Alternative,1710
+R120,Barcelona,Jebel Ali,3120,8,0,Standard,990
+R121,Barcelona,Kaohsiung,6333,17,1,Standard,1510
+R122,Barcelona,Kobe,6227,17,2,Alternative,1590
+R123,Barcelona,Laem Chabang,5904,15,0,Standard,1360
+R124,Barcelona,Le Havre,556,3,1,Standard,760
+R125,Barcelona,London Gateway,689,5,2,Alternative,830
+R126,Barcelona,Long Beach,5852,15,0,Standard,1300
+R127,Barcelona,Los Angeles,5856,16,1,Standard,1390
+R128,Barcelona,Manila,6764,19,2,Alternative,1670
+R129,Barcelona,Miami,4562,12,0,Standard,1150
+R130,Barcelona,Montreal,3568,10,1,Standard,1120
+R131,Barcelona,Mumbai,4257,13,2,Alternative,1320
+R132,Barcelona,New York,3731,10,0,Standard,1060
+R133,Barcelona,Ningbo,6015,16,1,Standard,1470
+R134,Barcelona,Oakland,5783,16,2,Alternative,1470
+R135,Barcelona,Piraeus,1133,4,0,Standard,770
+R136,Barcelona,Port Klang,6384,17,1,Standard,1520
+R137,Barcelona,Port Said,1758,7,2,Alternative,960
+R138,Barcelona,Qingdao,5659,14,0,Standard,1330
+R139,Barcelona,Rotterdam,719,4,1,Standard,780
+R140,Barcelona,Salalah,3395,11,2,Alternative,1160
+R141,Barcelona,Santos,5330,13,0,Standard,1300
+R142,Barcelona,Savannah,4358,12,1,Standard,1210
+R143,Barcelona,Seattle,5271,15,2,Alternative,1400
+R144,Barcelona,Shanghai,5944,15,0,Standard,1360
+R145,Barcelona,Shenzhen,6073,16,1,Standard,1480
+R146,Barcelona,Singapore,6582,18,2,Alternative,1640
+R147,Barcelona,Tanjung Pelepas,6565,16,0,Standard,1440
+R148,Barcelona,Tianjin,5388,14,1,Standard,1390
+R149,Barcelona,Tokyo,6300,18,2,Alternative,1600
+R150,Barcelona,Valparaiso,6766,17,0,Standard,1480
+R151,Barcelona,Vancouver,5205,14,1,Standard,1310
+R152,Barcelona,Yokohama,6313,18,2,Alternative,1600
+R153,Buenos Aires,Algeciras,5798,14,0,Standard,1360
+R154,Buenos Aires,Antwerp,6855,18,1,Standard,1590
+R155,Buenos Aires,Barcelona,6327,18,2,Alternative,1620
+R156,Buenos Aires,Busan,11693,28,0,Standard,2310
+R157,Buenos Aires,Cape Town,4155,12,1,Standard,1180
+R158,Buenos Aires,Chennai,9207,24,2,Alternative,2230
+R159,Buenos Aires,Colombo,8923,22,0,Standard,1910
+R160,Buenos Aires,Dubai,8256,21,1,Standard,1650
+R161,Buenos Aires,Durban,4918,14,2,Alternative,1350
+R162,Buenos Aires,Felixstowe,6795,17,0,Standard,1480
+R163,Buenos Aires,Genoa,6713,18,1,Standard,1570
+R164,Buenos Aires,Hamburg,7132,20,2,Alternative,1740
+R165,Buenos Aires,Ho Chi Minh City,10259,25,0,Standard,2100
+R166,Buenos Aires,Hong Kong,11169,28,1,Standard,2390
+R167,Buenos Aires,Houston,4923,14,2,Alternative,1350
+R168,Buenos Aires,Jakarta,9211,22,0,Standard,1950
+R169,Buenos Aires,Jebel Ali,8233,21,1,Standard,1650
+R170,Buenos Aires,Kaohsiung,11295,29,2,Alternative,2560
+R171,Buenos Aires,Kobe,11354,27,0,Standard,2260
+R172,Buenos Aires,Laem Chabang,10184,26,1,Standard,2240
+R173,Buenos Aires,Le Havre,6641,18,2,Alternative,1670
+R174,Buenos Aires,London Gateway,6737,17,0,Standard,1470
+R175,Buenos Aires,Long Beach,5943,16,1,Standard,1380
+R176,Buenos Aires,Los Angeles,5944,17,2,Alternative,1470
+R177,Buenos Aires,Manila,10758,26,0,Standard,2170
+R178,Buenos Aires,Miami,4291,12,1,Standard,1190
+R179,Buenos Aires,Montreal,5465,16,2,Alternative,1410
+R180,Buenos Aires,Mumbai,9025,22,0,Standard,1930
+R181,Buenos Aires,New York,5155,14,1,Standard,1290
+R182,Buenos Aires,Ningbo,11786,30,2,Alternative,2640
+R183,Buenos Aires,Oakland,6291,16,0,Standard,1330
+R184,Buenos Aires,Piraeus,7062,18,1,Standard,1620
+R185,Buenos Aires,Port Klang,9632,25,2,Alternative,2300
+R186,Buenos Aires,Port Said,7239,18,0,Standard,1430
+R187,Buenos Aires,Qingdao,11985,30,1,Standard,2510
+R188,Buenos Aires,Rotterdam,6889,19,2,Alternative,1700
+R189,Buenos Aires,Salalah,7916,19,0,Standard,1500
+R190,Buenos Aires,Santos,1004,4,1,Standard,810
+R191,Buenos Aires,Savannah,4708,14,2,Alternative,1320
+R192,Buenos Aires,Seattle,6733,17,0,Standard,1380
+R193,Buenos Aires,Shanghai,11877,29,1,Standard,2500
+R194,Buenos Aires,Shenzhen,11179,29,2,Alternative,2550
+R195,Buenos Aires,Singapore,9600,23,0,Standard,2010
+R196,Buenos Aires,Tanjung Pelepas,9598,24,1,Standard,2150
+R197,Buenos Aires,Tianjin,11712,30,2,Alternative,2630
+R198,Buenos Aires,Tokyo,11111,27,0,Standard,2220
+R199,Buenos Aires,Valencia,6146,16,1,Standard,1500
+R200,Buenos Aires,Valparaiso,746,5,2,Alternative,830
+R201,Buenos Aires,Vancouver,6833,17,0,Standard,1390
+R202,Buenos Aires,Yokohama,11112,28,1,Standard,2380
+R203,Busan,Algeciras,6531,18,2,Alternative,1630
+R204,Busan,Antwerp,5445,14,0,Standard,1300
+R205,Busan,Barcelona,6009,16,1,Standard,1470
+R206,Busan,Buenos Aires,11693,30,2,Alternative,2630
+R207,Busan,Cape Town,8342,20,0,Standard,1630
+R208,Busan,Chennai,3298,10,1,Standard,1080
+R209,Busan,Colombo,3572,11,2,Alternative,1180
+R210,Busan,Dubai,4242,11,0,Standard,970
+R211,Busan,Durban,7576,20,1,Standard,1650
+R212,Busan,Felixstowe,5493,16,2,Alternative,1490
+R213,Busan,Genoa,5630,14,0,Standard,1330
+R214,Busan,Hamburg,5171,14,1,Standard,1360
+R215,Busan,Ho Chi Minh City,2131,8,2,Alternative,1000
+R216,Busan,Hong Kong,1225,4,0,Standard,780
+R217,Busan,Houston,6914,18,1,Standard,1650
+R218,Busan,Jakarta,3106,10,2,Alternative,1120
+R219,Busan,Jebel Ali,4266,11,0,Standard,970
+R220,Busan,Kaohsiung,983,4,1,Standard,810
+R221,Busan,Laem Chabang,2261,8,2,Alternative,1020
+R222,Busan,Le Havre,5653,14,0,Standard,1330
+R223,Busan,London Gateway,5549,15,1,Standard,1410
+R224,Busan,Long Beach,5834,17,2,Alternative,1600
+R225,Busan,Los Angeles,5832,15,0,Standard,1410
+R226,Busan,Manila,1462,5,1,Standard,860
+R227,Busan,Miami,7608,21,2,Alternative,1870
+R228,Busan,Montreal,6512,16,0,Standard,1490
+R229,Busan,Mumbai,3490,10,1,Standard,1100
+R230,Busan,New York,6811,19,2,Alternative,1750
+R231,Busan,Ningbo,552,2,0,Standard,710
+R232,Busan,Oakland,5490,15,1,Standard,1460
+R233,Busan,Piraeus,5346,15,2,Alternative,1470
+R234,Busan,Port Klang,2762,7,0,Standard,950
+R235,Busan,Port Said,5212,14,1,Standard,1110
+R236,Busan,Rotterdam,5408,16,2,Alternative,1480
+R237,Busan,Salalah,4594,12,0,Standard,990
+R238,Busan,Santos,11308,28,1,Standard,2410
+R239,Busan,Savannah,7202,20,2,Alternative,1810
+R240,Busan,Seattle,5085,13,0,Standard,1310
+R241,Busan,Shenzhen,1219,5,1,Standard,840
+R242,Busan,Singapore,2769,9,2,Alternative,1080
+R243,Busan,Tanjung Pelepas,2773,7,0,Standard,950
+R244,Busan,Tianjin,687,4,1,Standard,770
+R245,Busan,Tokyo,583,4,2,Alternative,810
+R246,Busan,Valencia,6189,15,0,Standard,1390
+R247,Busan,Valparaiso,10948,27,1,Standard,2350
+R248,Busan,Vancouver,4989,15,2,Alternative,1480
+R249,Busan,Yokohama,582,2,0,Standard,710
+R250,Cape Town,Algeciras,4944,13,1,Standard,1150
+R251,Cape Town,Antwerp,5785,16,2,Alternative,1310
+R252,Cape Town,Barcelona,5161,13,0,Standard,1100
+R253,Cape Town,Buenos Aires,4155,12,1,Standard,1180
+R254,Cape Town,Busan,8342,22,2,Alternative,1860
+R255,Cape Town,Chennai,5059,13,0,Standard,1240
+R256,Cape Town,Colombo,4771,13,1,Standard,1300
+R257,Cape Town,Dubai,4625,14,2,Alternative,1310
+R258,Cape Town,Durban,769,3,0,Standard,730
+R259,Cape Town,Felixstowe,5862,16,1,Standard,1240
+R260,Cape Town,Genoa,5299,15,2,Alternative,1260
+R261,Cape Town,Hamburg,5903,15,0,Standard,1160
+R262,Cape Town,Ho Chi Minh City,6360,17,1,Standard,1500
+R263,Cape Town,Hong Kong,7181,20,2,Alternative,1700
+R264,Cape Town,Houston,8378,20,0,Standard,1550
+R265,Cape Town,Jakarta,5737,15,1,Standard,1420
+R266,Cape Town,Jebel Ali,4600,14,2,Alternative,1310
+R267,Cape Town,Kaohsiung,7522,18,0,Standard,1530
+R268,Cape Town,Kobe,8653,22,1,Standard,1780
+R269,Cape Town,Laem Chabang,6130,17,2,Alternative,1560
+R270,Cape Town,Le Havre,5715,14,0,Standard,1140
+R271,Cape Town,London Gateway,5846,16,1,Standard,1240
+R272,Cape Town,Long Beach,9700,25,2,Alternative,1940
+R273,Cape Town,Los Angeles,9704,23,0,Standard,1700
+R274,Cape Town,Manila,7288,19,1,Standard,1610
+R275,Cape Town,Miami,7448,20,2,Alternative,1660
+R276,Cape Town,Montreal,7715,19,0,Standard,1480
+R277,Cape Town,Mumbai,4976,14,1,Standard,1320
+R278,Cape Town,New York,7600,21,2,Alternative,1680
+R279,Cape Town,Ningbo,7813,19,0,Standard,1570
+R280,Cape Town,Oakland,9962,25,1,Standard,1850
+R281,Cape Town,Piraeus,4844,14,2,Alternative,1220
+R282,Cape Town,Port Klang,5774,14,0,Standard,1330
+R283,Cape Town,Port Said,4471,12,1,Standard,1210
+R284,Cape Town,Qingdao,7927,21,2,Alternative,1800
+R285,Cape Town,Rotterdam,5831,14,0,Standard,1150
+R286,Cape Town,Salalah,4110,12,1,Standard,1170
+R287,Cape Town,Santos,3808,12,2,Alternative,1210
+R288,Cape Town,Savannah,7691,19,0,Standard,1480
+R289,Cape Town,Seattle,9933,25,1,Standard,1840
+R290,Cape Town,Shanghai,7849,21,2,Alternative,1790
+R291,Cape Town,Shenzhen,7182,18,0,Standard,1490
+R292,Cape Town,Singapore,5843,16,1,Standard,1430
+R293,Cape Town,Tanjung Pelepas,5832,16,2,Alternative,1520
+R294,Cape Town,Tianjin,7866,19,0,Standard,1580
+R295,Cape Town,Tokyo,8907,23,1,Standard,1820
+R296,Cape Town,Valencia,5072,15,2,Alternative,1240
+R297,Cape Town,Valparaiso,4862,12,0,Standard,1180
+R298,Cape Town,Vancouver,9944,25,1,Standard,1840
+R299,Cape Town,Yokohama,8902,24,2,Alternative,1930
+R300,Chennai,Algeciras,5307,13,0,Standard,1290
+R301,Chennai,Antwerp,4775,13,1,Standard,1310
+R302,Chennai,Barcelona,4878,14,2,Alternative,1410
+R303,Chennai,Buenos Aires,9207,22,0,Standard,1950
+R304,Chennai,Busan,3298,10,1,Standard,1080
+R305,Chennai,Cape Town,5059,15,2,Alternative,1420
+R306,Chennai,Dubai,1781,5,0,Standard,780
+R307,Chennai,Durban,4302,12,1,Standard,1240
+R308,Chennai,Felixstowe,4904,14,2,Alternative,1410
+R309,Chennai,Genoa,4545,12,0,Standard,1200
+R310,Chennai,Hamburg,4561,13,1,Standard,1280
+R311,Chennai,Ho Chi Minh City,1745,7,2,Alternative,960
+R312,Chennai,Hong Kong,2253,6,0,Standard,890
+R313,Chennai,Houston,9209,23,1,Standard,1970
+R314,Chennai,Jakarta,2196,8,2,Alternative,1010
+R315,Chennai,Jebel Ali,1788,5,0,Standard,780
+R316,Chennai,Kaohsiung,2633,8,1,Standard,1000
+R317,Chennai,Kobe,3625,11,2,Alternative,1190
+R318,Chennai,Laem Chabang,1350,4,0,Standard,800
+R319,Chennai,Le Havre,4958,13,1,Standard,1330
+R320,Chennai,London Gateway,4955,14,2,Alternative,1420
+R321,Chennai,Long Beach,8739,21,0,Standard,1780
+R322,Chennai,Los Angeles,8739,22,1,Standard,1910
+R323,Chennai,Manila,2657,9,2,Alternative,1070
+R324,Chennai,Miami,9196,22,0,Standard,1840
+R325,Chennai,Montreal,7856,20,1,Standard,1780
+R326,Chennai,Mumbai,621,4,2,Alternative,820
+R327,Chennai,New York,8150,20,0,Standard,1710
+R328,Chennai,Ningbo,2799,8,1,Standard,1020
+R329,Chennai,Oakland,8399,22,2,Alternative,1980
+R330,Chennai,Piraeus,3754,10,0,Standard,1100
+R331,Chennai,Port Klang,1560,6,1,Standard,880
+R332,Chennai,Port Said,3198,10,2,Alternative,1010
+R333,Chennai,Qingdao,2869,8,0,Standard,960
+R334,Chennai,Rotterdam,4774,13,1,Standard,1310
+R335,Chennai,Salalah,1725,7,2,Alternative,890
+R336,Chennai,Santos,8642,21,0,Standard,1870
+R337,Chennai,Savannah,8839,22,1,Standard,1920
+R338,Chennai,Seattle,7804,21,2,Alternative,1890
+R339,Chennai,Shanghai,2819,8,0,Standard,950
+R340,Chennai,Shenzhen,2249,7,1,Standard,960
+R341,Chennai,Singapore,1758,7,2,Alternative,960
+R342,Chennai,Tanjung Pelepas,1739,5,0,Standard,840
+R343,Chennai,Tianjin,2817,9,1,Standard,1020
+R344,Chennai,Tokyo,3877,12,2,Alternative,1220
+R345,Chennai,Valencia,5014,13,0,Standard,1250
+R346,Chennai,Valparaiso,9920,25,1,Standard,2200
+R347,Chennai,Vancouver,7687,21,2,Alternative,1880
+R348,Chennai,Yokohama,3874,10,0,Standard,1070
+R349,Colombo,Algeciras,5524,15,1,Standard,1400
+R350,Colombo,Antwerp,5078,15,2,Alternative,1440
+R351,Colombo,Barcelona,5125,13,0,Standard,1270
+R352,Colombo,Buenos Aires,8923,23,1,Standard,2050
+R353,Colombo,Busan,3572,11,2,Alternative,1180
+R354,Colombo,Cape Town,4771,12,0,Standard,1210
+R355,Colombo,Dubai,2003,7,1,Standard,850
+R356,Colombo,Durban,4005,12,2,Alternative,1280
+R357,Colombo,Felixstowe,5210,13,0,Standard,1280
+R358,Colombo,Genoa,4812,13,1,Standard,1310
+R359,Colombo,Hamburg,4878,14,2,Alternative,1410
+R360,Colombo,Ho Chi Minh City,1801,5,0,Standard,840
+R361,Colombo,Hong Kong,2451,8,1,Standard,980
+R362,Colombo,Houston,9618,25,2,Alternative,2160
+R363,Colombo,Jakarta,2014,6,0,Standard,870
+R364,Colombo,Jebel Ali,2006,7,1,Standard,860
+R365,Colombo,Kaohsiung,2821,10,2,Alternative,1090
+R366,Colombo,Kobe,3887,10,0,Standard,1070
+R367,Colombo,Laem Chabang,1451,5,1,Standard,860
+R368,Colombo,Le Havre,5251,15,2,Alternative,1460
+R369,Colombo,London Gateway,5259,13,0,Standard,1280
+R370,Colombo,Long Beach,9135,23,1,Standard,1960
+R371,Colombo,Los Angeles,9135,24,2,Alternative,2090
+R372,Colombo,Manila,2761,7,0,Standard,950
+R373,Colombo,Miami,9549,24,1,Standard,2020
+R374,Colombo,Montreal,8233,22,2,Alternative,1960
+R375,Colombo,Mumbai,929,3,0,Standard,750
+R376,Colombo,New York,8519,22,1,Standard,1880
+R377,Colombo,Ningbo,3049,10,2,Alternative,1120
+R378,Colombo,Oakland,8792,21,0,Standard,1790
+R379,Colombo,Piraeus,3993,11,1,Standard,1210
+R380,Colombo,Port Klang,1467,6,2,Alternative,920
+R381,Colombo,Port Said,3400,9,0,Standard,900
+R382,Colombo,Qingdao,3166,9,1,Standard,1060
+R383,Colombo,Rotterdam,5081,15,2,Alternative,1440
+R384,Colombo,Salalah,1828,5,0,Standard,790
+R385,Colombo,Santos,8458,22,1,Standard,1980
+R386,Colombo,Savannah,9211,24,2,Alternative,2100
+R387,Colombo,Seattle,8207,20,0,Standard,1710
+R388,Colombo,Shanghai,3080,9,1,Standard,1050
+R389,Colombo,Shenzhen,2450,9,2,Alternative,1040
+R390,Colombo,Singapore,1651,5,0,Standard,830
+R391,Colombo,Tanjung Pelepas,1632,6,1,Standard,880
+R392,Colombo,Tianjin,3142,10,2,Alternative,1130
+R393,Colombo,Tokyo,4140,11,0,Standard,1100
+R394,Colombo,Valencia,5250,14,1,Standard,1370
+R395,Colombo,Valparaiso,9605,25,2,Alternative,2290
+R396,Colombo,Vancouver,8091,20,0,Standard,1700
+R397,Colombo,Yokohama,4136,12,1,Standard,1170
+R398,Dubai,Algeciras,3531,11,2,Alternative,1090
+R399,Dubai,Antwerp,3118,8,0,Standard,920
+R400,Dubai,Barcelona,3122,9,1,Standard,980
+R401,Dubai,Buenos Aires,8256,22,2,Alternative,1760
+R402,Dubai,Busan,4242,11,0,Standard,970
+R403,Dubai,Cape Town,4625,13,1,Standard,1230
+R404,Dubai,Chennai,1781,7,2,Alternative,890
+R405,Dubai,Colombo,2003,6,0,Standard,800
+R406,Dubai,Durban,4024,11,1,Standard,1160
+R407,Dubai,Felixstowe,3253,11,2,Alternative,1060
+R408,Dubai,Genoa,2815,8,0,Standard,890
+R409,Dubai,Hamburg,2948,9,1,Standard,970
+R410,Dubai,Ho Chi Minh City,3406,11,2,Alternative,1030
+R411,Dubai,Hong Kong,3599,9,0,Standard,920
+R412,Dubai,Houston,7948,20,1,Standard,1610
+R413,Dubai,Jakarta,3975,12,2,Alternative,1080
+R414,Dubai,Kaohsiung,3959,10,0,Standard,940
+R415,Dubai,Kobe,4578,13,1,Standard,1060
+R416,Dubai,Laem Chabang,2994,10,2,Alternative,990
+R417,Dubai,Le Havre,3275,9,0,Standard,930
+R418,Dubai,London Gateway,3297,10,1,Standard,1000
+R419,Dubai,Long Beach,8112,22,2,Alternative,1740
+R420,Dubai,Los Angeles,8114,20,0,Standard,1530
+R421,Dubai,Manila,4176,12,1,Standard,1030
+R422,Dubai,Miami,7617,21,2,Alternative,1680
+R423,Dubai,Montreal,6411,16,0,Standard,1340
+R424,Dubai,Mumbai,1172,5,1,Standard,790
+R425,Dubai,New York,6657,18,2,Alternative,1560
+R426,Dubai,Ningbo,3907,10,0,Standard,940
+R427,Dubai,Oakland,7860,20,1,Standard,1600
+R428,Dubai,Piraeus,1990,8,2,Alternative,940
+R429,Dubai,Port Klang,3334,9,0,Standard,900
+R430,Dubai,Port Said,1417,5,1,Standard,860
+R431,Dubai,Qingdao,3765,12,2,Alternative,1060
+R432,Dubai,Rotterdam,3126,8,0,Standard,920
+R433,Dubai,Salalah,566,3,1,Standard,760
+R434,Dubai,Santos,7389,20,2,Alternative,1650
+R435,Dubai,Savannah,7339,18,0,Standard,1440
+R436,Dubai,Seattle,7201,19,1,Standard,1530
+R437,Dubai,Shanghai,3883,12,2,Alternative,1070
+R438,Dubai,Shenzhen,3588,9,0,Standard,920
+R439,Dubai,Singapore,3533,10,1,Standard,980
+R440,Dubai,Tanjung Pelepas,3514,11,2,Alternative,1040
+R441,Dubai,Tianjin,3581,9,0,Standard,920
+R442,Dubai,Tokyo,4792,13,1,Standard,1080
+R443,Dubai,Valencia,3249,11,2,Alternative,1060
+R444,Dubai,Valparaiso,8976,22,0,Standard,1620
+R445,Dubai,Vancouver,7090,18,1,Standard,1510
+R446,Dubai,Yokohama,4796,14,2,Alternative,1150
+R447,Durban,Algeciras,5001,13,0,Standard,1080
+R448,Durban,Antwerp,5676,15,1,Standard,1220
+R449,Durban,Barcelona,5114,15,2,Alternative,1240
+R450,Durban,Buenos Aires,4918,12,0,Standard,1180
+R451,Durban,Busan,7576,20,1,Standard,1650
+R452,Durban,Cape Town,769,5,2,Alternative,840
+R453,Durban,Chennai,4302,11,0,Standard,1160
+R454,Durban,Colombo,4005,11,1,Standard,1200
+R455,Durban,Dubai,4024,12,2,Alternative,1240
+R456,Durban,Felixstowe,5773,14,0,Standard,1150
+R457,Durban,Genoa,5175,14,1,Standard,1170
+R458,Durban,Hamburg,5742,16,2,Alternative,1310
+R459,Durban,Ho Chi Minh City,5598,14,0,Standard,1310
+R460,Durban,Hong Kong,6412,17,1,Standard,1500
+R461,Durban,Houston,9006,24,2,Alternative,1850
+R462,Durban,Jakarta,5024,13,0,Standard,1240
+R463,Durban,Jebel Ali,4000,11,1,Standard,1160
+R464,Durban,Kaohsiung,6755,19,2,Alternative,1650
+R465,Durban,Kobe,7885,19,0,Standard,1580
+R466,Durban,Laem Chabang,5362,14,1,Standard,1370
+R467,Durban,Le Havre,5648,16,2,Alternative,1300
+R468,Durban,London Gateway,5769,14,0,Standard,1150
+R469,Durban,Long Beach,10332,26,1,Standard,1890
+R470,Durban,Los Angeles,10337,27,2,Alternative,2010
+R471,Durban,Manila,6535,16,0,Standard,1420
+R472,Durban,Miami,8065,21,1,Standard,1630
+R473,Durban,Montreal,8106,22,2,Alternative,1740
+R474,Durban,Mumbai,4255,11,0,Standard,1150
+R475,Durban,New York,8050,21,1,Standard,1630
+R476,Durban,Ningbo,7045,19,2,Alternative,1690
+R477,Durban,Oakland,10526,25,0,Standard,1790
+R478,Durban,Piraeus,4583,13,1,Standard,1120
+R479,Durban,Port Klang,5020,15,2,Alternative,1410
+R480,Durban,Port Said,4111,11,0,Standard,1090
+R481,Durban,Qingdao,7167,19,1,Standard,1600
+R482,Durban,Rotterdam,5718,16,2,Alternative,1300
+R483,Durban,Salalah,3482,9,0,Standard,1030
+R484,Durban,Santos,4568,13,1,Standard,1220
+R485,Durban,Savannah,8255,22,2,Alternative,1760
+R486,Durban,Seattle,10283,25,0,Standard,1760
+R487,Durban,Shanghai,7081,18,1,Standard,1590
+R488,Durban,Shenzhen,6414,18,2,Alternative,1600
+R489,Durban,Singapore,5097,13,0,Standard,1250
+R490,Durban,Tanjung Pelepas,5085,14,1,Standard,1340
+R491,Durban,Tianjin,7117,19,2,Alternative,1700
+R492,Durban,Tokyo,8138,20,0,Standard,1610
+R493,Durban,Valencia,5059,14,1,Standard,1160
+R494,Durban,Valparaiso,5618,16,2,Alternative,1430
+R495,Durban,Vancouver,10250,25,0,Standard,1760
+R496,Durban,Yokohama,8133,21,1,Standard,1720
+R497,Felixstowe,Algeciras,1112,6,2,Alternative,880
+R498,Felixstowe,Barcelona,714,3,0,Standard,730
+R499,Felixstowe,Buenos Aires,6795,18,1,Standard,1590
+R500,Felixstowe,Busan,5493,16,2,Alternative,1490
+R501,Thiruvananthapuram,Vizhinjam,15,1,0,Standard,420
+R502,Vizhinjam,Colombo,350,2,0,Standard,520
+R503,Vizhinjam,Singapore,1850,6,0,Standard,820
+R504,Vizhinjam,Dubai,1700,6,0,Standard,760
+R505,Vizhinjam,Rotterdam,6100,17,1,Standard,1480
+R506,Vizhinjam,Hamburg,6250,18,1,Standard,1510
+R507,Vizhinjam,Antwerp,6150,18,1,Alternative,1490
+R508,Vizhinjam,Port Said,4100,12,1,Standard,1120
+R509,Vizhinjam,Jebel Ali,1680,6,0,Standard,750
+R510,Vizhinjam,Salalah,1250,4,0,Standard,680
+R511,Cochin,Colombo,350,2,0,Standard,500
+R512,Cochin,Singapore,1950,7,0,Standard,850
+R513,Cochin,Dubai,1800,6,0,Standard,780
+R514,Cochin,Jebel Ali,1780,6,0,Alternative,760
+R515,Cochin,Salalah,1380,5,0,Standard,700
+R516,Cochin,Rotterdam,6250,18,1,Standard,1520
+R517,Cochin,Hamburg,6400,19,1,Standard,1550
+R518,Cochin,Antwerp,6300,18,1,Alternative,1530
+R519,Cochin,Port Said,4250,13,1,Standard,1160
+R520,Cochin,Chennai,690,3,0,Standard,560
+R521,Thiruvananthapuram,Rotterdam,6150,18,1,Standard,1500
+R522,Thiruvananthapuram,Hamburg,6300,19,1,Standard,1530
+R523,Thiruvananthapuram,Antwerp,6200,18,1,Alternative,1510
+R524,Thiruvananthapuram,Singapore,1900,7,0,Standard,840
+R525,Thiruvananthapuram,Dubai,1750,6,0,Standard,770
+R526,Thiruvananthapuram,Jebel Ali,1730,6,0,Alternative,750
+R527,Thiruvananthapuram,Salalah,1300,5,0,Standard,690
+R528,Thiruvananthapuram,Colombo,320,2,0,Standard,510
+R529,Thiruvananthapuram,Port Said,4150,13,1,Standard,1140
+R530,Thiruvananthapuram,Port Klang,2050,7,1,Alternative,880
+R531,Cochin,Port Klang,2150,8,1,Standard,900
+R532,Cochin,Tanjung Pelepas,2200,8,1,Alternative,890
+R533,Cochin,Ho Chi Minh City,3100,10,1,Standard,1080
+R534,Cochin,Laem Chabang,3300,11,1,Alternative,1120
+R535,Cochin,Manila,3650,12,1,Standard,1190
+R536,Cochin,Jakarta,3000,10,1,Standard,1060
+R537,Vizhinjam,Port Klang,1900,7,1,Standard,850
+R538,Vizhinjam,Tanjung Pelepas,1950,7,1,Alternative,840
+R539,Vizhinjam,Ho Chi Minh City,2950,10,1,Standard,1040
+R540,Vizhinjam,Laem Chabang,3150,11,1,Alternative,1080
+R541,Chennai,Los Angeles,9300,25,1,Standard,2350
+R542,Chennai,Long Beach,9350,25,1,Alternative,2320
+R543,Chennai,New York,10500,29,1,Standard,2600
+R544,Chennai,Savannah,10800,30,2,Alternative,2480
+R545,Chennai,Houston,11200,31,2,Standard,2550
+R546,Chennai,Seattle,9000,24,1,Alternative,2250
+R547,Mumbai,Los Angeles,9800,27,1,Standard,2420
+R548,Mumbai,Long Beach,9850,27,1,Alternative,2390
+R549,Mumbai,New York,10400,29,1,Standard,2580
+R550,Mumbai,Savannah,10700,30,2,Alternative,2500
+R551,Cochin,Los Angeles,10100,28,1,Standard,2480
+R552,Cochin,Long Beach,10150,28,1,Alternative,2450
+R553,Cochin,New York,11100,31,2,Standard,2700
+R554,Cochin,Savannah,11300,32,2,Alternative,2620
+R555,Cochin,Houston,11600,33,2,Standard,2680
+R556,Vizhinjam,Los Angeles,9950,27,1,Standard,2410
+R557,Vizhinjam,Long Beach,10000,28,1,Alternative,2380
+R558,Vizhinjam,New York,11000,30,2,Standard,2650
+R559,Vizhinjam,Savannah,11200,31,2,Alternative,2580
+R560,Vizhinjam,Houston,11500,32,2,Standard,2640
+R561,Los Angeles,New York,11200,30,1,Standard,2850
+R562,Long Beach,New York,11150,30,1,Alternative,2800
+R563,Savannah,Rotterdam,4100,12,0,Standard,1350
+R564,New York,Rotterdam,3600,11,0,Standard,1280
+R565,Houston,Rotterdam,5000,14,1,Standard,1480
+R566,Los Angeles,Shanghai,5800,16,0,Standard,1750
+R567,Long Beach,Shanghai,5750,16,0,Alternative,1720
+R568,Seattle,Shanghai,5000,14,0,Standard,1600
+R569,Oakland,Shanghai,5100,15,0,Alternative,1580
+R570,Savannah,Shanghai,10500,28,1,Standard,2500
